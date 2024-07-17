@@ -17,7 +17,7 @@ const Hero = () => {
                 </p>
               </div>
               <Link
-                to="#"
+                to={'/create-trip'}
                 className="inline-flex h-10 items-center justify-center rounded-md bg-white px-8 text-sm font-medium text-rose-700 hover:bg-rose-600 hover:text-white transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-rose-500 disabled:pointer-events-none disabled:opacity-50"
               >
                 Plan Your Trip
